@@ -1,3 +1,5 @@
+Propietario: Ivan Cantero
+
 # Ejem02_2526_Restauracion
 
 # H1
